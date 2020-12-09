@@ -1,23 +1,20 @@
 {
   "files": {
-    "main.css": "/dropdown-counter-colorpicker-todolist/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/dropdown-counter-colorpicker-todolist/static/js/main.bdc20a41.chunk.js",
-    "main.js.map": "/dropdown-counter-colorpicker-todolist/static/js/main.bdc20a41.chunk.js.map",
-    "runtime-main.js": "/dropdown-counter-colorpicker-todolist/static/js/runtime-main.eb3f9939.js",
-    "runtime-main.js.map": "/dropdown-counter-colorpicker-todolist/static/js/runtime-main.eb3f9939.js.map",
-    "static/js/2.f1270987.chunk.js": "/dropdown-counter-colorpicker-todolist/static/js/2.f1270987.chunk.js",
-    "static/js/2.f1270987.chunk.js.map": "/dropdown-counter-colorpicker-todolist/static/js/2.f1270987.chunk.js.map",
-    "static/js/3.7bb473ab.chunk.js": "/dropdown-counter-colorpicker-todolist/static/js/3.7bb473ab.chunk.js",
-    "static/js/3.7bb473ab.chunk.js.map": "/dropdown-counter-colorpicker-todolist/static/js/3.7bb473ab.chunk.js.map",
+    "main.css": "/dropdown-counter-colorpicker-todolist/static/css/main.4b4d4815.chunk.css",
+    "main.js": "/dropdown-counter-colorpicker-todolist/static/js/main.35fcf4da.chunk.js",
+    "main.js.map": "/dropdown-counter-colorpicker-todolist/static/js/main.35fcf4da.chunk.js.map",
+    "runtime-main.js": "/dropdown-counter-colorpicker-todolist/static/js/runtime-main.ce50e751.js",
+    "runtime-main.js.map": "/dropdown-counter-colorpicker-todolist/static/js/runtime-main.ce50e751.js.map",
+    "static/js/2.f6a46f1f.chunk.js": "/dropdown-counter-colorpicker-todolist/static/js/2.f6a46f1f.chunk.js",
+    "static/js/2.f6a46f1f.chunk.js.map": "/dropdown-counter-colorpicker-todolist/static/js/2.f6a46f1f.chunk.js.map",
     "index.html": "/dropdown-counter-colorpicker-todolist/index.html",
-    "static/css/main.ab7136cd.chunk.css.map": "/dropdown-counter-colorpicker-todolist/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.f1270987.chunk.js.LICENSE.txt": "/dropdown-counter-colorpicker-todolist/static/js/2.f1270987.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/dropdown-counter-colorpicker-todolist/static/media/logo.6ce24c58.svg"
+    "static/css/main.4b4d4815.chunk.css.map": "/dropdown-counter-colorpicker-todolist/static/css/main.4b4d4815.chunk.css.map",
+    "static/js/2.f6a46f1f.chunk.js.LICENSE.txt": "/dropdown-counter-colorpicker-todolist/static/js/2.f6a46f1f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.eb3f9939.js",
-    "static/js/2.f1270987.chunk.js",
-    "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.bdc20a41.chunk.js"
+    "static/js/runtime-main.ce50e751.js",
+    "static/js/2.f6a46f1f.chunk.js",
+    "static/css/main.4b4d4815.chunk.css",
+    "static/js/main.35fcf4da.chunk.js"
   ]
 }
