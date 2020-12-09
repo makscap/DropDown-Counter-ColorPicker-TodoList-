@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dropdown-counter-colorcicker-todolist/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/dropdown-counter-colorcicker-todolist/static/js/main.bdc20a41.chunk.js",
+    "main.js.map": "/dropdown-counter-colorcicker-todolist/static/js/main.bdc20a41.chunk.js.map",
+    "runtime-main.js": "/dropdown-counter-colorcicker-todolist/static/js/runtime-main.57302674.js",
+    "runtime-main.js.map": "/dropdown-counter-colorcicker-todolist/static/js/runtime-main.57302674.js.map",
+    "static/js/2.f1270987.chunk.js": "/dropdown-counter-colorcicker-todolist/static/js/2.f1270987.chunk.js",
+    "static/js/2.f1270987.chunk.js.map": "/dropdown-counter-colorcicker-todolist/static/js/2.f1270987.chunk.js.map",
+    "static/js/3.7bb473ab.chunk.js": "/dropdown-counter-colorcicker-todolist/static/js/3.7bb473ab.chunk.js",
+    "static/js/3.7bb473ab.chunk.js.map": "/dropdown-counter-colorcicker-todolist/static/js/3.7bb473ab.chunk.js.map",
+    "index.html": "/dropdown-counter-colorcicker-todolist/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/dropdown-counter-colorcicker-todolist/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.f1270987.chunk.js.LICENSE.txt": "/dropdown-counter-colorcicker-todolist/static/js/2.f1270987.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/dropdown-counter-colorcicker-todolist/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57302674.js",
+    "static/js/2.f1270987.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.bdc20a41.chunk.js"
+  ]
+}
